@@ -195,13 +195,7 @@ An NLP classifier that flags misinformation using engineered linguistic features
 
 </div>
 
-## GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jakkulaayushpreetham&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-
-</div>
 
 
 
