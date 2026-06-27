@@ -203,19 +203,7 @@ An NLP classifier that flags misinformation using engineered linguistic features
 
 </div>
 
-## Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jakkulaayushpreetham/jakkulaayushpreetham/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Powered by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — set this up once in your repo workflow and it auto-generates daily.</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<div align="center">
 
 ### *"Artificial Intelligence isn't replacing human creativity — it amplifies it."*
 
