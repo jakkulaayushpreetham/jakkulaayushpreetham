@@ -1,151 +1,208 @@
 <div align="center">
 
-# 👋 Hi, I'm Jakkula Ayush Preetham
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=220&section=header&text=Jakkula%20Ayush%20Preetham&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-### AI Engineer • Machine Learning Enthusiast • Full Stack Developer
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+Deep+Learning;Generative+AI+Developer;NLP+%7C+LLMs+%7C+RAG+Systems;Full+Stack+Developer;450%2B+LeetCode+Problems+Solved" />
 
-<img src="https://komarev.com/ghpvc/?username=jakkulaayushpreetham&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-🎓 B.Tech Student with **9.93 CGPA**
-
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
-
-🧠 Interested in
-
-- Deep Learning
-- Generative AI
-- NLP
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent AI Systems
-
-💻 Love building intelligent applications that solve real-world problems.
-
-📈 Solved **450+ LeetCode Problems**
-
-🌱 Currently learning
-
-- Transformers
-- Advanced Deep Learning
-- Production LLM Systems
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<br/>
 
 <a href="https://www.linkedin.com/in/jakkula-ayush-preetham">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:jakkulaayushpreetham@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/ayush_preetham_77">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=jakkulaayushpreetham&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
----
+</div>
 
-# ⚡ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### Programming Languages
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+```javascript
+const ayushPreetham = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    currentFocus: "Multi-Agent AI Systems 🤖",
+    education: "B.Tech | CGPA: 9.93",
+    stack: ["Python", "PyTorch", "LangChain", "React", "Node.js"],
+    interests: ["Generative AI", "RAG Systems", "NLP", "Full Stack Dev"],
+    leetcode: "450+ problems solved",
+    motto: "Bugs in my code never make me sleep ^_^",
 
-### AI / ML
+    lifeLoop: function () {
+        while (alive) {
+            learn();
+            build();
+            ship();
+            repeat();
+        }
+    }
+};
+```
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+</td>
+<td width="45%" valign="top" align="center">
 
----
+<img src="https://github.com/cuuupid/undraw-illustrations/raw/master/svg/coding_6mjf.svg" width="100%"/>
 
-### Generative AI
+</td>
+</tr>
+</table>
 
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-System-blue?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-GenerativeAI-success?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+- 🎓 B.Tech student with a **9.93 CGPA**
+- 🤖 Building intelligent systems at the intersection of **AI research and product engineering**
+- 🧠 Deep focus on **multi-agent architectures**, **RAG pipelines**, and **applied deep learning**
+- 📈 **450+ LeetCode problems** solved — strong on DSA fundamentals
+- 🌱 Currently leveling up on **Transformers** and **production-grade LLM systems**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-# 🚀 Featured Projects
-
-🧠 **ResearchMind**
-> Multi-Agent AI Research Assistant powered by LangChain, RAG, LLMs, ChromaDB and Streamlit.
-
-🌱 **Plant Disease Classification**
-> Attention-Augmented Deep Learning architecture for disease detection.
-
-🎓 **Acadex360**
-> AI-powered student collaboration platform.
-
-📰 **Fake News Detection**
-> NLP + Machine Learning powered fake news classifier.
-
----
-
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=jakkulaayushpreetham&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jakkulaayushpreetham&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkulaayushpreetham&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jakkulaayushpreetham&theme=algolia&no-frame=true&margin-w=10)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=jakkulaayushpreetham&theme=tokyo-night)
-
----
-
-# 💡 Quote
-
-> *"Artificial Intelligence isn't replacing human creativity—it amplifies it."*
-
----
+## ⚡ Tech Stack
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star!
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+
+**Generative AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Systems-1565C0?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-2E7D32?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🧩 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 ResearchMind
+Multi-agent AI research assistant — sequential **Search → Reader → Writer → Critic** pipeline built on LangChain, RAG, and ChromaDB, with a custom Streamlit interface.
+
+`LangChain` `RAG` `ChromaDB` `Streamlit` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Plant Disease Classification
+Attention-augmented deep learning architecture for fine-grained plant disease detection and severity grading.
+
+`PyTorch` `CNN` `Attention Mechanisms` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Acadex360
+AI-powered student collaboration platform designed to streamline academic workflows and peer learning.
+
+`Full Stack` `React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 Fake News Detection
+NLP-driven classifier combining linguistic feature engineering with machine learning to flag misinformation.
+
+`NLP` `Scikit-Learn` `Text Classification`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jakkulaayushpreetham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkulaayushpreetham&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkulaayushpreetham&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jakkulaayushpreetham&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakkulaayushpreetham&theme=tokyo-night" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jakkulaayushpreetham/jakkulaayushpreetham/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>✨ Powered by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — set this up once in your repo workflow and it auto-generates daily.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<div align="center">
+
+### 💡 *"Artificial Intelligence isn't replacing human creativity — it amplifies it."*
+
+⭐ **If you like my work, consider giving a star — it genuinely helps!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00C2FF&height=120&section=footer" width="100%"/>
 
 </div>
