@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 ```cpp
 struct AyushPreetham {
@@ -55,9 +55,9 @@ struct AyushPreetham {
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="55%" valign="top" align="center">
 
-<img src="https://github.com/cuuupid/undraw-illustrations/raw/master/svg/coding_6mjf.svg" width="100%"/>
+<img src="https://github.com/cuuupid/undraw-illustrations/raw/master/svg/coding_6mjf.svg" width="115%"/>
 
 </td>
 </tr>
@@ -125,9 +125,7 @@ struct AyushPreetham {
 
 ### ResearchMind
 
-A multi-agent AI research assistant that automates the research workflow end-to-end. Built as a **rerun-driven state machine on LangChain/LangGraph**, it runs four decoupled agents in sequence — **Search → Reader → Writer → Critic** — each handing off a clean, normalized state to the next.
-
-The Writer and Critic chains are deliberately separated to avoid confirmation bias: the Critic never sees the Writer's reasoning, only its output, so the review stays objective. Retrieved context is grounded with **RAG over ChromaDB**, and the Streamlit frontend uses a custom bioluminescent signal-rail UI to visualize each agent's progress live.
+A multi-agent research assistant built on **LangChain/LangGraph** — four decoupled agents run in sequence (**Search → Reader → Writer → Critic**) so the Critic reviews only the Writer's output, never its reasoning, keeping feedback unbiased. Context is grounded with **RAG over ChromaDB**, all wrapped in a custom Streamlit interface.
 
 `LangChain` `LangGraph` `RAG` `ChromaDB` `Streamlit` `LLMs`
 
@@ -136,11 +134,9 @@ The Writer and Critic chains are deliberately separated to avoid confirmation bi
 
 ### Plant Disease Classification
 
-A dual-head deep learning system for **cotton leaf disease diagnosis**, predicting both disease type and severity from a single forward pass. The backbone fuses a **ResNet50 feature extractor with a Vision Transformer**, bridged by a custom **Dual Spatial-Gated Attention Module (DSGAM)** that learns to focus on lesion regions rather than background leaf texture.
+A dual-head **ResNet50 + Vision Transformer** model that diagnoses cotton leaf disease type and severity in one pass. A custom **Dual Spatial-Gated Attention Module (DSGAM)** steers focus onto lesion regions instead of background texture, sharpening accuracy on visually similar disease stages.
 
-This attention-augmented design improves fine-grained classification accuracy on visually similar disease stages — a problem plain CNNs tend to struggle with — while keeping the severity head lightweight enough for fast inference.
-
-`PyTorch` `ResNet50` `Vision Transformer` `Attention Mechanisms` `Computer Vision`
+`PyTorch` `ResNet50` `Vision Transformer` `Attention Mechanisms`
 
 </td>
 </tr>
@@ -149,20 +145,16 @@ This attention-augmented design improves fine-grained classification accuracy on
 
 ### Acadex360
 
-A full-stack, AI-powered student collaboration platform designed to reduce the friction in academic group work. It centralizes shared notes, task tracking, and peer Q&A into one workflow, with an AI layer that surfaces relevant resources and summarizes discussion threads so students spend less time coordinating and more time learning.
+An AI-powered student collaboration platform that centralizes notes, tasks, and peer Q&A — with an AI layer that summarizes discussions and surfaces relevant resources, so less time goes to coordination and more to actual learning.
 
-Built on a **React frontend with a Node.js/Express API**, backed by **MongoDB** for flexible, document-based storage of coursework, threads, and user activity.
-
-`Full Stack` `React` `Node.js` `Express` `MongoDB`
+`Full Stack` `React` `Node.js` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
 ### Fake News Detection
 
-An NLP-driven classifier that flags misinformation by combining **linguistic feature engineering** — stylistic, lexical, and structural signals known to correlate with deceptive writing — with classical **machine learning models** for robust, interpretable predictions.
-
-Rather than relying on a black-box deep model, this project deliberately favors **Scikit-Learn classifiers** trained on engineered features, making it easier to inspect *why* an article gets flagged — a meaningful advantage for trust and auditability in misinformation detection.
+An NLP classifier that flags misinformation using engineered linguistic features — lexical and structural patterns tied to deceptive writing — fed into **Scikit-Learn models**. Choosing classical ML over a black box keeps every prediction explainable.
 
 `NLP` `Scikit-Learn` `Feature Engineering` `Text Classification`
 
@@ -188,14 +180,6 @@ Rather than relying on a black-box deep model, this project deliberately favors 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=jakkulaayushpreetham&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-
-</div>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakkulaayushpreetham&theme=tokyo-night" width="100%"/>
 
 </div>
 
