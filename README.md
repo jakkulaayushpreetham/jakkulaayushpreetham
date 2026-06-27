@@ -33,30 +33,39 @@
 ```cpp
 struct AyushPreetham {
 
-    string role = "AI Engineer";
-    string cgpa = "9.93";
-    string country = "India";
+    string role      = "AI Engineer";
+    string education = "B.Tech | CGPA: 9.93";
+    string location  = "India";
 
-    vector<string> skills = {
+    vector<string> languages = {
         "Python",
         "C++",
+        "Java",
+        "C"
+    };
+
+    vector<string> aiStack = {
         "PyTorch",
         "LangChain",
-        "React"
-    };
-
-    vector<string> focus = {
-        "GenAI",
-        "RAG",
         "LLMs",
-        "Multi-Agent AI"
+        "RAG"
     };
 
-    int lc = 450;
+    vector<string> interests = {
+        "Deep Learning",
+        "NLP",
+        "Multi-Agent AI",
+        "Full Stack"
+    };
 
-    void dailyLife() {
-        while(alive){
+    int leetcodeSolved = 450;
+
+    bool openSource = true;
+
+    void dailyRoutine() {
+        while (alive) {
             Learn();
+            Code();
             Build();
             Deploy();
             Repeat();
