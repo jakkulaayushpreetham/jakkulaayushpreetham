@@ -124,17 +124,23 @@ struct AyushPreetham {
 <td width="50%" valign="top">
 
 ### ResearchMind
-Multi-agent AI research assistant — sequential **Search → Reader → Writer → Critic** pipeline built on LangChain, RAG, and ChromaDB, with a custom Streamlit interface.
 
-`LangChain` `RAG` `ChromaDB` `Streamlit` `LLMs`
+A multi-agent AI research assistant that automates the research workflow end-to-end. Built as a **rerun-driven state machine on LangChain/LangGraph**, it runs four decoupled agents in sequence — **Search → Reader → Writer → Critic** — each handing off a clean, normalized state to the next.
+
+The Writer and Critic chains are deliberately separated to avoid confirmation bias: the Critic never sees the Writer's reasoning, only its output, so the review stays objective. Retrieved context is grounded with **RAG over ChromaDB**, and the Streamlit frontend uses a custom bioluminescent signal-rail UI to visualize each agent's progress live.
+
+`LangChain` `LangGraph` `RAG` `ChromaDB` `Streamlit` `LLMs`
 
 </td>
 <td width="50%" valign="top">
 
 ### Plant Disease Classification
-Attention-augmented deep learning architecture for fine-grained plant disease detection and severity grading.
 
-`PyTorch` `CNN` `Attention Mechanisms` `Computer Vision`
+A dual-head deep learning system for **cotton leaf disease diagnosis**, predicting both disease type and severity from a single forward pass. The backbone fuses a **ResNet50 feature extractor with a Vision Transformer**, bridged by a custom **Dual Spatial-Gated Attention Module (DSGAM)** that learns to focus on lesion regions rather than background leaf texture.
+
+This attention-augmented design improves fine-grained classification accuracy on visually similar disease stages — a problem plain CNNs tend to struggle with — while keeping the severity head lightweight enough for fast inference.
+
+`PyTorch` `ResNet50` `Vision Transformer` `Attention Mechanisms` `Computer Vision`
 
 </td>
 </tr>
@@ -142,17 +148,23 @@ Attention-augmented deep learning architecture for fine-grained plant disease de
 <td width="50%" valign="top">
 
 ### Acadex360
-AI-powered student collaboration platform designed to streamline academic workflows and peer learning.
 
-`Full Stack` `React` `Node.js` `MongoDB`
+A full-stack, AI-powered student collaboration platform designed to reduce the friction in academic group work. It centralizes shared notes, task tracking, and peer Q&A into one workflow, with an AI layer that surfaces relevant resources and summarizes discussion threads so students spend less time coordinating and more time learning.
+
+Built on a **React frontend with a Node.js/Express API**, backed by **MongoDB** for flexible, document-based storage of coursework, threads, and user activity.
+
+`Full Stack` `React` `Node.js` `Express` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
 ### Fake News Detection
-NLP-driven classifier combining linguistic feature engineering with machine learning to flag misinformation.
 
-`NLP` `Scikit-Learn` `Text Classification`
+An NLP-driven classifier that flags misinformation by combining **linguistic feature engineering** — stylistic, lexical, and structural signals known to correlate with deceptive writing — with classical **machine learning models** for robust, interpretable predictions.
+
+Rather than relying on a black-box deep model, this project deliberately favors **Scikit-Learn classifiers** trained on engineered features, making it easier to inspect *why* an article gets flagged — a meaningful advantage for trust and auditability in misinformation detection.
+
+`NLP` `Scikit-Learn` `Feature Engineering` `Text Classification`
 
 </td>
 </tr>
