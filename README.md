@@ -57,7 +57,7 @@ struct AyushPreetham {
 </td>
 <td width="55%" valign="top" align="center">
 
-<img src="https://github.com/cuuupid/undraw-illustrations/raw/master/svg/coding_6mjf.svg" width="115%"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="430"/>
 
 </td>
 </tr>
