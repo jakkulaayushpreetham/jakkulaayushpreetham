@@ -24,24 +24,26 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-```javascript
-const ayushPreetham = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    currentFocus: "Multi-Agent AI Systems 🤖",
-    education: "B.Tech | CGPA: 9.93",
-    stack: ["Python", "PyTorch", "LangChain", "React", "Node.js"],
-    interests: ["Generative AI", "RAG Systems", "NLP", "Full Stack Dev"],
-    leetcode: "450+ problems solved",
-    motto: "Bugs in my code never make me sleep ^_^",
+```cpp
+struct AyushPreetham {
+    std::string pronouns     = "He/Him";
+    std::string location     = "India";
+    std::string currentFocus = "Multi-Agent AI Systems";
+    std::string education    = "B.Tech | CGPA: 9.93";
 
-    lifeLoop: function () {
+    std::vector<std::string> stack     = {"Python", "C++", "PyTorch", "LangChain", "React"};
+    std::vector<std::string> interests = {"Generative AI", "RAG Systems", "NLP", "Full Stack Dev"};
+
+    std::string leetcode = "450+ problems solved";
+    std::string motto    = "Bugs in my code never let me sleep";
+
+    void lifeLoop() {
         while (alive) {
             learn();
             build();
@@ -61,15 +63,15 @@ const ayushPreetham = {
 </tr>
 </table>
 
-- 🎓 B.Tech student with a **9.93 CGPA**
-- 🤖 Building intelligent systems at the intersection of **AI research and product engineering**
-- 🧠 Deep focus on **multi-agent architectures**, **RAG pipelines**, and **applied deep learning**
-- 📈 **450+ LeetCode problems** solved — strong on DSA fundamentals
-- 🌱 Currently leveling up on **Transformers** and **production-grade LLM systems**
+- B.Tech student with a **9.93 CGPA**
+- Building intelligent systems at the intersection of **AI research and product engineering**
+- Deep focus on **multi-agent architectures**, **RAG pipelines**, and **applied deep learning**
+- **450+ LeetCode problems** solved — strong on DSA fundamentals
+- Currently leveling up on **Transformers** and **production-grade LLM systems**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -115,13 +117,13 @@ const ayushPreetham = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🧩 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 ResearchMind
+### ResearchMind
 Multi-agent AI research assistant — sequential **Search → Reader → Writer → Critic** pipeline built on LangChain, RAG, and ChromaDB, with a custom Streamlit interface.
 
 `LangChain` `RAG` `ChromaDB` `Streamlit` `LLMs`
@@ -129,7 +131,7 @@ Multi-agent AI research assistant — sequential **Search → Reader → Writer 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Plant Disease Classification
+### Plant Disease Classification
 Attention-augmented deep learning architecture for fine-grained plant disease detection and severity grading.
 
 `PyTorch` `CNN` `Attention Mechanisms` `Computer Vision`
@@ -139,7 +141,7 @@ Attention-augmented deep learning architecture for fine-grained plant disease de
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Acadex360
+### Acadex360
 AI-powered student collaboration platform designed to streamline academic workflows and peer learning.
 
 `Full Stack` `React` `Node.js` `MongoDB`
@@ -147,7 +149,7 @@ AI-powered student collaboration platform designed to streamline academic workfl
 </td>
 <td width="50%" valign="top">
 
-### 📰 Fake News Detection
+### Fake News Detection
 NLP-driven classifier combining linguistic feature engineering with machine learning to flag misinformation.
 
 `NLP` `Scikit-Learn` `Text Classification`
@@ -158,7 +160,7 @@ NLP-driven classifier combining linguistic feature engineering with machine lear
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -169,7 +171,7 @@ NLP-driven classifier combining linguistic feature engineering with machine lear
 
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -177,7 +179,7 @@ NLP-driven classifier combining linguistic feature engineering with machine lear
 
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -185,13 +187,13 @@ NLP-driven classifier combining linguistic feature engineering with machine lear
 
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/jakkulaayushpreetham/jakkulaayushpreetham/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>✨ Powered by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — set this up once in your repo workflow and it auto-generates daily.</sub>
+<sub>Powered by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — set this up once in your repo workflow and it auto-generates daily.</sub>
 
 </div>
 
@@ -199,9 +201,9 @@ NLP-driven classifier combining linguistic feature engineering with machine lear
 
 <div align="center">
 
-### 💡 *"Artificial Intelligence isn't replacing human creativity — it amplifies it."*
+### *"Artificial Intelligence isn't replacing human creativity — it amplifies it."*
 
-⭐ **If you like my work, consider giving a star — it genuinely helps!**
+**If you like my work, consider giving a star — it genuinely helps!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00C2FF&height=120&section=footer" width="100%"/>
 
