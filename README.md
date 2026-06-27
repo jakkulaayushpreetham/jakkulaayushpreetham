@@ -32,23 +32,34 @@
 
 ```cpp
 struct AyushPreetham {
-    std::string pronouns     = "He/Him";
-    std::string location     = "India";
-    std::string currentFocus = "Multi-Agent AI Systems";
-    std::string education    = "B.Tech | CGPA: 9.93";
 
-    std::vector<std::string> stack     = {"Python", "C++", "PyTorch", "LangChain", "React"};
-    std::vector<std::string> interests = {"Generative AI", "RAG Systems", "NLP", "Full Stack Dev"};
+    string role = "AI Engineer";
+    string cgpa = "9.93";
+    string country = "India";
 
-    std::string leetcode = "450+ problems solved";
-    std::string motto    = "Bugs in my code never let me sleep";
+    vector<string> skills = {
+        "Python",
+        "C++",
+        "PyTorch",
+        "LangChain",
+        "React"
+    };
 
-    void lifeLoop() {
-        while (alive) {
-            learn();
-            build();
-            ship();
-            repeat();
+    vector<string> focus = {
+        "GenAI",
+        "RAG",
+        "LLMs",
+        "Multi-Agent AI"
+    };
+
+    int lc = 450;
+
+    void dailyLife() {
+        while(alive){
+            Learn();
+            Build();
+            Deploy();
+            Repeat();
         }
     }
 };
