@@ -147,44 +147,69 @@ struct AyushPreetham {
 
 ## Featured Projects
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00C2FF&height=60&section=header&text=Selected%20Work&fontSize=28&fontColor=ffffff&fontAlignY=70" width="100%"/>
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ResearchMind
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=ResearchMind&fontSize=24&fontColor=00C2FF&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 A multi-agent research assistant built on **LangChain/LangGraph** — four decoupled agents run in sequence (**Search → Reader → Writer → Critic**) so the Critic reviews only the Writer's output, never its reasoning, keeping feedback unbiased. Context is grounded with **RAG over ChromaDB**, all wrapped in a custom Streamlit interface.
 
-`LangChain` `LangGraph` `RAG` `ChromaDB` `Streamlit` `LLMs`
+<div align="left">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-1565C0?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### Plant Disease Classification
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A2A6C,50:2C5F2D,100:0F2027&height=90&section=header&text=Plant%20Disease%20Classification&fontSize=20&fontColor=00FFAA&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 A dual-head **ResNet50 + Vision Transformer** model that diagnoses cotton leaf disease type and severity in one pass. A custom **Dual Spatial-Gated Attention Module (DSGAM)** steers focus onto lesion regions instead of background texture, sharpening accuracy on visually similar disease stages.
 
-`PyTorch` `ResNet50` `Vision Transformer` `Attention Mechanisms`
+<div align="left">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ResNet50-2C5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vision%20Transformer-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Attention-FF2079?style=flat-square"/>
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Acadex360
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,50:00C2FF,100:0F2027&height=90&section=header&text=Acadex360&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 An AI-powered student collaboration platform that centralizes notes, tasks, and peer Q&A — with an AI layer that summarizes discussions and surfaces relevant resources, so less time goes to coordination and more to actual learning.
 
-`Full Stack` `React` `Node.js` `MongoDB`
+<div align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-202020?style=flat-square"/>
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### Fake News Detection
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C0F2E,50:7B1E3A,100:0F2027&height=90&section=header&text=Fake%20News%20Detection&fontSize=22&fontColor=FFD21E&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 An NLP classifier that flags misinformation using engineered linguistic features — lexical and structural patterns tied to deceptive writing — fed into **Scikit-Learn models**. Choosing classical ML over a black box keeps every prediction explainable.
 
-`NLP` `Scikit-Learn` `Feature Engineering` `Text Classification`
+<div align="left">
+<img src="https://img.shields.io/badge/NLP-2E7D32?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-455A64?style=flat-square"/>
+<img src="https://img.shields.io/badge/Text%20Classification-455A64?style=flat-square"/>
+</div>
 
 </td>
 </tr>
