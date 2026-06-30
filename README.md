@@ -184,6 +184,33 @@ A multi-agent research assistant built on **LangChain/LangGraph** — four decou
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A2A6C,50:2C5F2D,100:0F2027&height=110&section=header&text=%F0%9F%8C%BF%20Plant%20Disease%20Classification&fontSize=20&fontColor=00FFAA&fontAlignY=60&animation=twinkling" width="100%"/>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:7C3AED,70:00C2FF,100:FF2079&height=160&section=header&text=FEATURED%20PROJECTS&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Engineering%20Ideas%20Into%20Intelligent%20Systems&descAlignY=68&descSize=16" width="100%"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=110&section=header&text=%F0%9F%A7%A0%20ResearchMind&fontSize=26&fontColor=00C2FF&fontAlignY=60&animation=twinkling" width="100%"/>
+
+A multi-agent research assistant built on **LangChain/LangGraph** — four decoupled agents run in sequence (**Search → Reader → Writer → Critic**) so the Critic reviews only the Writer's output, never its reasoning, keeping feedback unbiased. Context is grounded with **RAG over ChromaDB**, all wrapped in a custom Streamlit interface.
+
+<p align="left">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A2A6C,50:2C5F2D,100:0F2027&height=110&section=header&text=%F0%9F%8C%BF%20Plant%20Disease%20Classification&fontSize=20&fontColor=00FFAA&fontAlignY=60&animation=twinkling" width="100%"/>
+
 A dual-head **ResNet50 + Vision Transformer** model that diagnoses cotton leaf disease type and severity in one pass. A custom **Dual Spatial-Gated Attention Module (DSGAM)** steers focus onto lesion regions instead of background texture, sharpening accuracy on visually similar disease stages.
 
 <p align="left">
