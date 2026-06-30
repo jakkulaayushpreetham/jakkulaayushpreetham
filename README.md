@@ -157,6 +157,18 @@ struct AyushPreetham {
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=110&section=header&text=%F0%9F%A7%A0%20ResearchMind&fontSize=26&fontColor=00C2FF&fontAlignY=60&animation=twinkling" width="100%"/>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:7C3AED,70:00C2FF,100:FF2079&height=160&section=header&text=FEATURED%20PROJECTS&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Engineering%20Ideas%20Into%20Intelligent%20Systems&descAlignY=68&descSize=16" width="100%"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=110&section=header&text=%F0%9F%A7%A0%20ResearchMind&fontSize=26&fontColor=00C2FF&fontAlignY=60&animation=twinkling" width="100%"/>
+
 A multi-agent research assistant built on **LangChain/LangGraph** — four decoupled agents run in sequence (**Search → Reader → Writer → Critic**) so the Critic reviews only the Writer's output, never its reasoning, keeping feedback unbiased. Context is grounded with **RAG over ChromaDB**, all wrapped in a custom Streamlit interface.
 
 <p align="left">
